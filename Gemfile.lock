@@ -36,6 +36,7 @@ GEM
       net-sftp (>= 2.0.0)
       net-ssh (>= 2.0.14)
       net-ssh-gateway (>= 1.0.0)
+    easy_http_cache (2.2)
     erubis (2.6.6)
       abstract (>= 1.0.0)
     highline (1.6.1)
@@ -86,6 +87,7 @@ PLATFORMS
 
 DEPENDENCIES
   capistrano
+  easy_http_cache
   rails (= 3.0.4)
   sqlite3
   sqlite3-ruby
