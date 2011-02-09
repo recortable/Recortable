@@ -1,0 +1,7 @@
+.idea
+.project
+.bundle
+config/git.yml
+db/*.sqlite3
+log/*.log
+tmp/**/*
